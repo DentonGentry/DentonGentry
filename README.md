@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Long-time software engineer and manager, now trying to help mitigate climate change by building software for [Project Drawdown](https://drawdown.org/).
+
+Twitter: https://twitter.com/dgentry
+LinkedIn: http://linkedin.com/in/dentongentry
+Resume: [DentonGentry.doc](https://docs.google.com/document/d/1GVe70m0pd2MMOTK1_r2J7UtAki-9klTZuvi9WQP8QC8/view)
+Blog: https://codingrelic.geekhold.com/
+Email addresses 📫: dgentry@decarbon.earth, dgentry@carboncaptu.re, denton.gentry@gmail.com, denny@geekhold.com
+Pronouns: he/him
+
+Open source Project Drawdown climate solution models: https://github.com/ProjectDrawdown/solutions/
