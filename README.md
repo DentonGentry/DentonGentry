@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DentonGentry/DentonGentry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Long-time software engineer and manager, now trying to help mitigate climate change by building software for [Project Drawdown](https://drawdown.org/).
+Long-time software engineer and manager, now trying to help mitigate climate change.
 
 + Twitter: https://twitter.com/dgentry
 + LinkedIn: http://linkedin.com/in/dentongentry
