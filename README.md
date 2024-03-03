@@ -19,6 +19,9 @@ Long-time software engineer and manager, now trying to help mitigate climate cha
 + Resume: [DentonGentry.doc](https://docs.google.com/document/d/1GVe70m0pd2MMOTK1_r2J7UtAki-9klTZuvi9WQP8QC8/view)
 + Blog: https://codingrelic.geekhold.com/
 + Email addresses 📫: dgentry@decarbon.earth, denton.gentry@gmail.com, denny@geekhold.com
++ Fediverse
+  + Mostly technical: https://hachyderm.io/@dgentry  
+  + Mostly not technical: https://mastodon.social/@dgentry  
 + Pronouns: he/him
 
 Open source Project Drawdown climate solution work: https://github.com/ProjectDrawdown/
