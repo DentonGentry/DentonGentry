@@ -25,4 +25,5 @@ Long-time software engineer and manager, now trying to help mitigate climate cha
 + Pronouns: he/him
 
 Open source Project Drawdown climate solution work: https://github.com/ProjectDrawdown/
+
 Recent (2020-2024) hands-on product work: https://github.com/tailscale/tailscale/
