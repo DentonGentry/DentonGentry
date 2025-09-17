@@ -18,12 +18,12 @@ Long-time software engineer and manager, now trying to help mitigate climate cha
 + LinkedIn: http://linkedin.com/in/dentongentry
 + Resume: [DentonGentry.doc](https://docs.google.com/document/d/1GVe70m0pd2MMOTK1_r2J7UtAki-9klTZuvi9WQP8QC8/view)
 + Blog: https://codingrelic.geekhold.com/
-+ Email addresses 📫: dgentry@decarbon.earth, denton.gentry@gmail.com, denny@geekhold.com
-+ Fediverse
++ Email addresses 📫: dgentry@decarbon.earth, denton.gentry@gmail.com, denny@geekhold.com, dgentry@duofon.com
++ Social networks
   + Mostly technical: https://hachyderm.io/@dgentry  
-  + Mostly not technical: https://mastodon.social/@dgentry  
+  + Mostly not technical: https://mastodon.social/@dgentry
+  + Mostly shitposting: https://bsky.app/profile/dgentry.bsky.social
+  + I am no longer active on Twitter, please reach out via some other channel
 + Pronouns: he/him
-
-Open source Project Drawdown climate solution work: https://github.com/ProjectDrawdown/
 
 Recent (2020-2024) hands-on product work: https://github.com/tailscale/tailscale/
